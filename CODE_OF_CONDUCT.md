@@ -16,7 +16,7 @@ Unacceptable behavior includes:
 - Inappropriate language or personal attacks  
 
 ## Reporting Issues  
-If you experience or witness any violations, please contact [your-email@example.com] or open an issue.  
+If you experience or witness any violations, please contact me us open an issue.  
 
 ## Enforcement  
 Violations may result in warnings or bans at the maintainers' discretion.  
