@@ -1,9 +1,4 @@
 
----
-
-### `CODE_OF_CONDUCT.md`
-This file ensures respectful collaboration.  
-
 
 # Code of Conduct  
 
