@@ -4,7 +4,7 @@
 ### `CODE_OF_CONDUCT.md`
 This file ensures respectful collaboration.  
 
-```markdown
+
 # Code of Conduct  
 
 ## Our Pledge  
